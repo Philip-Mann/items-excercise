@@ -60,8 +60,6 @@ function App() {
       },
   ];
 
-  // console.log(items)
-
   return (
     <div className="App">
       <h1>Tasks:</h1>
